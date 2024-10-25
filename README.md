@@ -1,2 +1,2 @@
-# CodeChef
+# DSA Good questions
 DSA Preparation
