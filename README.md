@@ -1,2 +1,2 @@
-# DSA Good questions
+# DSA questions
 DSA Preparation
